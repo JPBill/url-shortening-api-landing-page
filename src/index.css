@@ -1,0 +1,22 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.shortener {
+  background-image: url("/src/assets/images/bg-shorten-mobile.svg");
+}
+
+.cta {
+  background-image: url("/src/assets/images/bg-boost-mobile.svg");
+}
+
+@media (min-width: 768px) {
+  .shortener {
+    background-image: url("/src/assets/images/bg-shorten-desktop.svg");
+  }
+  .cta {
+    background-image: url("/src/assets/images/bg-boost-desktop.svg");
+  }
+}
