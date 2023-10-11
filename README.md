@@ -30,7 +30,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [[Add live site URL here](https://url-shortening-landing-page-jbdev.netlify.app/)]
+- Live Site URL: [https://url-shortening-landing-page-jbdev.netlify.app/]
 
 ## My process
 
